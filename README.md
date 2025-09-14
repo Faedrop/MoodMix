@@ -14,6 +14,12 @@ A real-time collaborative playlist application. Create a room, share the link, a
 - **Frontend**: Jinja2 Templates, HTML/CSS
 - **Real-Time**: Socket.IO 
 
+
+
+## info 
+
+this is not a finished app 
+
 ## Installation & Local Run
 
 1. **Clone the repo**
