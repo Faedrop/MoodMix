@@ -12,8 +12,7 @@ A real-time collaborative playlist application. Create a room, share the link, a
 
 - **Backend**: FastAPI (Python)
 - **Frontend**: Jinja2 Templates, HTML/CSS
-- **Real-Time**: Socket.IO (for Phase 2)
-- **Deployment**: Render (Web Service)
+- **Real-Time**: Socket.IO 
 
 ## Installation & Local Run
 
